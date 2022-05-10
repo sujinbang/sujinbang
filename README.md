@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/sujinbang/sujinbang">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=SJBANG%20Repository&fontSize=50"/>
   </a>
 </p>
