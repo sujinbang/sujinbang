@@ -23,11 +23,14 @@
 ## project list
 
 
-## 사용 언어
+## Skills 
+**[ Programming Languages ]**<br>
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 
-- SQL
-- PYTHON
-- R
+**[ Backend & DB & BaaS ]**<br>
+![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
+
+**[ Design ]**<br>
 
 
 <!--
