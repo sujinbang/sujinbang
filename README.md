@@ -21,7 +21,9 @@
 <br/>
 
 ## project list
-
+- 01 MINI_Project(220621~220630)
+<a href="https://github.com/sujinbang/01_MINIPROJECT">
+<img src="https://ifh.cc/g/w2ylV7.jpg" width="450px" height="300px" title="세븐브릿지&트레킹" alt="부산"/></a>
 
 ## Skills 
 **[ Programming Languages ]**<br>
