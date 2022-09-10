@@ -18,8 +18,8 @@
 
 
 ## Expeience
-- Navis Automotive Systems (Dec 2019 ~ Feb 2021) <br/>
-- K-DIGITAL 빅데이터 분석가 양성과정 (Apr 2022 ~ Oct 2022)
+- Navis Automotive Systems MAPINT 사원 근무 (Dec 2019 ~ Feb 2021) <br/>
+- K-DIGITAL 빅데이터 분석가 양성과정 교육 수료 (Apr 2022 ~ Oct 2022)
 
 ## project list
 - 01 MINI_Project(220621~220630)
