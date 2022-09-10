@@ -36,7 +36,9 @@
   -  ppt :
   -  django 구현 : 
   -  power BI : 
-- 03 MAIN_Project
+- 03 MAIN_Project(20220830~20221017)
+  - SK C&C 멘토링 진행(NLP 자연어 처리)<br/>
+  - 주제 : 말하는 일기장<br/>
 
 <!--
 **sujinbang/sujinbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
