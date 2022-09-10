@@ -26,10 +26,10 @@
   - 주제 : 부산 관광객 유치를 위한 방안<br/>
   - ppt : 발표/부산 관광객 유치를 위한 방안 _최종본.pptx<br/>
   - 지도시각화<br/>
-[세븐브릿지_트래킹_해수욕장 위치](https://github.com/sujinbang/NewProject/blob/main/%EC%84%B8%EB%B8%90%EB%B8%8C%EB%A6%BF%EC%A7%80_%ED%8A%B8%EB%9E%98%ED%82%B9_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.html)<br/>
-[음식테마거리 시군구별 개수](https://github.com/sujinbang/NewProject/blob/main/%EC%9D%8C%EC%8B%9D%ED%85%8C%EB%A7%88%EA%B1%B0%EB%A6%AC.html)<br/>
-[전통시장 시군구별 개수](https://github.com/sujinbang/NewProject/blob/main/%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5.html)<br/>
-[축제 위치 및 지점 정보](https://github.com/sujinbang/NewProject/blob/main/%EC%B6%95%EC%A0%9C.html)<br/>
+[세븐브릿지_트래킹_해수욕장 위치](https://sujinbang.github.io/NewProject/%EC%84%B8%EB%B8%90%EB%B8%8C%EB%A6%BF%EC%A7%80_%ED%8A%B8%EB%9E%98%ED%82%B9_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5.html)<br/>
+[음식테마거리 시군구별 개수](https://sujinbang.github.io/NewProject/%EC%9D%8C%EC%8B%9D%ED%85%8C%EB%A7%88%EA%B1%B0%EB%A6%AC.html)<br/>
+[전통시장 시군구별 개수](https://sujinbang.github.io/NewProject/%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5.html)<br/>
+[축제 위치 및 지점 정보](https://sujinbang.github.io/NewProject/%EC%B6%95%EC%A0%9C.html)<br/>
 
 - 02 MINI_Project(20220720~20220802)
   -  주제 : 이륜차 사고 정보 제공<br/>
