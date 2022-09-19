@@ -45,7 +45,7 @@
   -  주제 : 이륜차 사고 정보 제공<br/>
   -  ppt : [미니프로젝트2_1조.pdf](https://github.com/sujinbang/02_MINIPROJECT/tree/main/%EB%B0%9C%ED%91%9C)<br>
   -  django 구현 : 
-  -  power BI : 
+  -  power BI : [BI_이륜차사고분석.pbix](https://github.com/sujinbang/02_MINIPROJECT/blob/main/BI/BI_%EC%9D%B4%EB%A5%9C%EC%B0%A8%EC%82%AC%EA%B3%A0%EB%B6%84%EC%84%9D.pbix)<br>
 - 03 MAIN_Project(20220830~20221017)
   - SK C&C 멘토링 진행(NLP 자연어 처리)<br/>
   - 주제 : 말하는 일기장<br/>
