@@ -18,8 +18,18 @@
 
 
 ## Expeience
-- Navis Automotive Systems MAPINT 사원 근무 (Dec 2019 ~ Feb 2021) <br/>
-- K-DIGITAL 빅데이터 분석가 양성과정 교육 수료 (Apr 2022 ~ Oct 2022)
+- Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Feb 2021)
+1) JIRA, Confluence 등의 협업 툴 활용 능력
+2) SQL을 이용한 데이터 추출과 분석 가능
+3) 서버 관리 및 데이터 품질 관리
+4) 성능 및 최적화 관리(Tool 사용 환경, 정확도, 에러 확인)
+
+- K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)
+1) Python, R 기반 데이터 마이닝
+2) 웹 구현(Django MVT모델 기반)
+3) 사용자 DB 연동(Oracle 기반)
+4) Machine Learning
+5) Deep Learning
 
 ## project list
 - 01 MINI_Project(220621~220630)<br/>
