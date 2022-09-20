@@ -18,18 +18,26 @@
 
 
 ## Expeience
-- Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Feb 2021)
-1) JIRA, Confluence 등의 협업 툴 활용 능력
-2) SQL을 이용한 데이터 추출과 분석 가능
-3) 서버 관리 및 데이터 품질 관리
-4) 성능 및 최적화 관리(Tool 사용 환경, 정확도, 에러 확인)
+
+- Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Jan 2021)
+  - Query Tuning / 데이터 분석 자료 요청 처리
+    - SQL을 이용한 데이터 추출 및 관련 부서 자료 회신
+    - 개발자 쿼리 검수 및 최적화
+    - JIRA, Confluence 등의 협업 툴 활용
+  - 서버 관리 및 데이터 품질 관리
+    - 프로그램 실행 서버 구성
+    - VHD 및 SSD 사용으로 툴 사용 최적화 방안 제시
+    - 백업 및 데이터 리스트 관리
 
 - K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)
-1) Python, R 기반 데이터 마이닝
-2) 웹 구현(Django MVT모델 기반)
-3) 사용자 DB 연동(Oracle 기반)
-4) Machine Learning
-5) Deep Learning
+  - RDBS(Oracle / My SQL) : 빅데이터 저장 기술
+  - 데이터 사이언스 개론 : 통계학 기반, 수학적 기반 분석
+  - 빅데이터 분석 : python, R
+  - 기초 프로그래밍
+     - Front-End(HTML, CSS, JavaScript, ReactJS)
+     - Back-End(Django를 활용한 웹 서버 구축)
+  - Machine Learning, Deep Learning
+  - 산학협력 프로젝트
 
 ## project list
 - 01 MINI_Project(220621~220630)<br/>
