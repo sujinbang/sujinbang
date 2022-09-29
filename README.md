@@ -21,6 +21,7 @@
 
 <b>Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Jan 2021)</b>
 
+
   - Converting & 데이터 검수
     - Raw Data를 가공하여 Complie을 위한 원도로 만들기 위한 Converting 진행(자체 개발 툴 활용)
       - Raw Data 예시 : Link, POI, Tollfee, GuidePath, Mesh, DEM, Tunnel 등
@@ -42,6 +43,12 @@
     - SQL 이용한 데이터 추출 및 관련 부서 자료 회신
     - JIRA, Confluence 등의 협업 툴 활용
     - Converting 일정 및 Release 관련 schedule 관리
+
+
+![image](https://user-images.githubusercontent.com/104615408/192954863-b9ca3766-f49c-4a32-8c4c-dab046440b13.png)
+
+
+
 
 <b>K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)</b>
   - RDBS(Oracle / My SQL) : 빅데이터 저장 기술
