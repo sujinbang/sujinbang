@@ -45,7 +45,6 @@
     - Converting 일정 및 Release 관련 schedule 관리
 
 
-![image](https://user-images.githubusercontent.com/104615408/192954863-b9ca3766-f49c-4a32-8c4c-dab046440b13.png)
 
 
 
@@ -59,6 +58,10 @@
      - Back-End(Django를 활용한 웹 서버 구축)
   - Machine Learning, Deep Learning
   - 산학협력 프로젝트
+
+![image](https://user-images.githubusercontent.com/104615408/193166726-145fac2a-6412-4ae2-a770-598b46d83c96.png)
+
+
 
 ## project list
 - 01 MINI_Project(220621~220630)<br/>
