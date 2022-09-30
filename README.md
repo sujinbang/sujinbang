@@ -59,7 +59,9 @@
   - Machine Learning, Deep Learning
   - 산학협력 프로젝트
 
-![image](https://user-images.githubusercontent.com/104615408/193166726-145fac2a-6412-4ae2-a770-598b46d83c96.png)
+
+![image](https://user-images.githubusercontent.com/104615408/193168030-00231dd3-e634-46af-837a-b3295b6336ec.png)
+
 
 
 
