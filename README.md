@@ -60,7 +60,9 @@
   - 산학협력 프로젝트
 
 
-![image](https://user-images.githubusercontent.com/104615408/193168030-00231dd3-e634-46af-837a-b3295b6336ec.png)
+
+![image](https://user-images.githubusercontent.com/104615408/193172445-6c6ccbed-38c1-454e-a75c-089d3bd7d827.png)
+
 
 
 
