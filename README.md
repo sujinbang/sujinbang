@@ -77,7 +77,7 @@
 
 - 02 MINI_Project(20220720~20220802)
   -  주제 : 이륜차 사고 정보 제공<br/>
-  -  ppt : [이륜차 사고 정보 제공.pdf](https://github.com/sujinbang/02_MINIPROJECT/tree/main/%EB%B0%9C%ED%91%9C)<br>
+  -  ppt : [이륜차 사고 정보 제공.pdf](https://github.com/sujinbang/02_MINIPROJECT/tree/main/%EC%9D%B4%EB%A5%9C%EC%B0%A8%EC%82%AC%EA%B3%A0%EC%A0%95%EB%B3%B4%EC%A0%9C%EA%B3%B5/%EB%B0%9C%ED%91%9C)<br>
   -  power BI : [BI_이륜차사고분석.pbix](https://github.com/sujinbang/02_MINIPROJECT/blob/main/BI/BI_%EC%9D%B4%EB%A5%9C%EC%B0%A8%EC%82%AC%EA%B3%A0%EB%B6%84%EC%84%9D.pbix)<br>
   -  django 구현
 - 03 MAIN_Project(20220830~20221017)
