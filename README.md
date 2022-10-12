@@ -50,7 +50,7 @@
 
 
 <b>K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)</b>
-  - RDBS(Oracle / My SQL) : 빅데이터 저장 기술
+  - RDBMS(Oracle / My SQL) : 빅데이터 저장 기술
   - 데이터 사이언스 개론 : 통계학 기반, 수학적 기반 분석
   - 빅데이터 분석 : python, R
   - 기초 프로그래밍
