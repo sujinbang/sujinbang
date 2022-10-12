@@ -82,9 +82,14 @@
   -  ppt : [이륜차 사고 정보 제공.pdf](https://github.com/sujinbang/02_MINIPROJECT/tree/main/%EC%9D%B4%EB%A5%9C%EC%B0%A8%EC%82%AC%EA%B3%A0%EC%A0%95%EB%B3%B4%EC%A0%9C%EA%B3%B5/%EB%B0%9C%ED%91%9C)<br>
   -  power BI : [BI_이륜차사고분석.pbix](https://github.com/sujinbang/02_MINIPROJECT/blob/main/BI/BI_%EC%9D%B4%EB%A5%9C%EC%B0%A8%EC%82%AC%EA%B3%A0%EB%B6%84%EC%84%9D.pbix)<br>
   -  django 구현
+     - 시연 영상 : 
 - 03 MAIN_Project(20220830~20221017)
   - SK C&C 멘토링 진행(NLP 자연어 처리)<br/>
   - 주제 : 말하는 일기장<br/>
+  - ppt : 
+  - web : https://speaking-diary.netlify.app/ 
+    -  DB는 제외된 웹페이지 입니다.
+  - 시연영상 : [말하는 일기장 시연영상] (https://github.com/sujinbang/03_Final_Project/tree/main/%EC%98%81%EC%83%81)
 
 <!--
 **sujinbang/sujinbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
