@@ -35,7 +35,7 @@
 - 03 MAIN_Project(20220830~20221017)
   - SK C&C 멘토링 진행(NLP 자연어 처리)<br/>
   - 주제 : 말하는 일기장<br/>
-  - ppt : 
+  - ppt : [말하는 일기장.pdf](https://github.com/sujinbang/03_Final_Project/blob/main/%EB%A7%90%ED%95%98%EB%8A%94%EC%9D%BC%EA%B8%B0%EC%9E%A5.pdf)
   - web : https://speaking-diary.netlify.app/ 
     -  DB는 제외된 웹페이지 입니다.
   - 시연영상 : [말하는 일기장 시연영상](https://github.com/sujinbang/03_Final_Project/tree/main/%EC%98%81%EC%83%81)
