@@ -5,18 +5,18 @@
 </p>
 
 
-## info
+## INFO
 - Name : Bang Sujin
 - Email : sjbang8098@gmail.com
 
-## Skills 
+## SKILLS
 ![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![oracle badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![power bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-## project list
+## PROJECT
 - 01 MINI_Project(220621~220630)<br/>
   - 주제 : 부산 관광객 유치를 위한 방안<br/>
   - ppt : [부산 관광객 유치를 위한 방안 _최종본.pptx](https://github.com/sujinbang/01_MINIPROJECT/blob/main/%EB%B0%9C%ED%91%9C/%EB%B6%80%EC%82%B0%20%EA%B4%80%EA%B4%91%EA%B0%9D%20%EC%9C%A0%EC%B9%98%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B0%A9%EC%95%88%20_%EC%B5%9C%EC%A2%85%EB%B3%B8.pptx)<br>
@@ -41,7 +41,7 @@
   - 시연영상 : [말하는 일기장 시연영상](https://github.com/sujinbang/03_Final_Project/tree/main/%EC%98%81%EC%83%81)
 
 
-## Expeience
+## EXPERIENCE
 
 <b>Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Jan 2021)</b>
 
