@@ -89,11 +89,6 @@
 
 
 
-## Summary
-<p align ="left">
-<img align="center" src="/github-metrics-sujinbang-main.svg" alt="Metrics" width="500">
-</p>
-
 
 
 <!--
