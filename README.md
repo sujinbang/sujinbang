@@ -43,7 +43,7 @@
 
 <br/>
 
-<b>3. 말하는 일기장</b><br>
+<b>3. 말하는 일기장</b>  [repository](https://github.com/sujinbang/03_Final_Project)<br>
   1) 기간 : 2022.08.30 ~ 2022.10.17<br>
   2) 사용 기술 : python, STT, TTS, konlpy, wordcloud, kobert, django, oracle<br>
   3) 분석 내용<br>
