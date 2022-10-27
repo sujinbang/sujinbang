@@ -58,28 +58,58 @@
 ## EXPERIENCE
 
 <b>1. Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Jan 2021)</b>
+  
+[Converting & 데이터 검수]<br>
+- 디지털 지도 변환 : 대용량 디지털 지도를 효율적으로 사용하기 위해 데이터를 처리<br>
+- 원도 팀에서 제공하는 release note 기반으로 고객에게 전달될 업데이트 사양 정리<br>
+- BeyondCompare 툴을 활용하여 이전 버전과 비교해 업데이트 파일 확인<br>
+- 검수가 필요한 지역에 대한 좌표 정보를 활용하여 Data 확인(자체 개발 툴 활용)<br>
 
+
+[서버 관리 및 데이터 품질 관리]<br>
+- VHD 및 SSD 사용으로 툴 사용 최적화 방안 제시<br>
+- 백업 및 데이터 리스트 관리<br>
+
+
+[협업]<br>
+- SQL 이용한 데이터 추출 및 관련 부서 자료 회신<br>
+- JIRA, Confluence 등의 협업 툴 활용<br>
+- Converting 일정 및 Release 관련 schedule 관리<br>
+  
 
 <b>2. K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)</b><br>
-1) RDBMS(Oracle / My SQL) : 빅데이터 저장 기술<br>
-2) 데이터 사이언스 개론 : 통계학 기반, 수학적 기반 분석<br>
-3) 빅데이터 분석 : python, R<br>
-4) 기초 프로그래밍<br>
-  (1) Front-End(HTML, CSS, JavaScript, ReactJS)<br>
-  (2) Back-End(Django를 활용한 웹 서버 구축)<br>
-5) Machine Learning<br>
+
+[빅데이터 저장 기술]
+- RDBMS 기반 데이터 처리(Oracle)
+
+[데이터 사이언스 개론]
+- 통계학 기반, 수학적 기반 분석
+
+[기초 프로그래밍]
+- python 기초 프로그래밍
+- Front-End(HTML, CSS, JavaScript, ReactJS)<br>
+- Back-End(Django를 활용한 웹 서버 구축)
+
+[빅데이터 분석 - python, R]
+- 데이터 이해, 전처리, 시각화, EDA, 모형 평가, 보고서 작성
+
+[Machine Learning]
+- 지도 학습<br>
   (1) k-최근접 이웃(k-Nearest Neighbors)<br>
   (2) 선형 회귀(Linear Regression)<br>
   (3) 로지스틱 회귀(Logistic Regression)<br>
   (4) 서포트 벡터 머신(SVM, Support Vector Machine)<br>
   (5) 결정트리(Decision Tree)<br>
   (6) 랜덤 포레스트(Random Forest)<br>
-  (7) 군집(Clustering)<br>
-  (8) k-means<br>
-  (9) 주성분 분석(PCA)<br>
-6) Deep Learning<br>
-  (1) 인공신경망 및 딥러닝, 영상 처리를 위한 CNN<br>
-  (2) 자연어 처리를 위한 RNN, LSTM, Transformers<br>
+- 비지도 학습<br>
+  (1) 군집(Clustering)<br>
+  (2) k-means<br>
+  (3) 주성분 분석(PCA)<br>
+  
+[Deep Learning]
+- 인공신경망 및 딥러닝, 영상 처리를 위한 CNN<br>
+- 자연어 처리를 위한 RNN, LSTM, Transformers<br>
+
 
 
 
