@@ -57,31 +57,29 @@
 
 ## EXPERIENCE
 
-<b>Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Jan 2021)</b>
+<b>1. Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Jan 2021)</b>
 
 
-<b>K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)</b>
- - RDBMS(Oracle / My SQL) : 빅데이터 저장 기술
- - 데이터 사이언스 개론 : 통계학 기반, 수학적 기반 분석
- - 빅데이터 분석 : python, R
- - 기초 프로그래밍
-   - Front-End(HTML, CSS, JavaScript, ReactJS)
-   - Back-End(Django를 활용한 웹 서버 구축)
- - Machine Learning
-   - 지도학습 
-     - k-최근접 이웃(k-Nearest Neighbors)
-     - 선형 회귀(Linear Regression)
-     - 로지스틱 회귀(Logistic Regression)
-     - 서포트 벡터 머신(SVM, Support Vector Machine)
-     - 결정트리(Decision Tree)
-     - 랜덤 포레스트(Random Forest)
-   - 비지도학습
-     - 군집(Clustering)
-     - k-means
-     - 주성분 분석(PCA)
- - Deep Learning
-   - 인공신경망 및 딥러닝, 영상 처리를 위한 CNN
-   - 자연어 처리를 위한 RNN, LSTM, Transformers
+<b>2. K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)</b><br>
+1) RDBMS(Oracle / My SQL) : 빅데이터 저장 기술<br>
+2) 데이터 사이언스 개론 : 통계학 기반, 수학적 기반 분석<br>
+3) 빅데이터 분석 : python, R<br>
+4) 기초 프로그래밍<br>
+  (1) Front-End(HTML, CSS, JavaScript, ReactJS)<br>
+  (2) Back-End(Django를 활용한 웹 서버 구축)<br>
+5) Machine Learning<br>
+  (1) k-최근접 이웃(k-Nearest Neighbors)<br>
+  (2) 선형 회귀(Linear Regression)<br>
+  (3) 로지스틱 회귀(Logistic Regression)<br>
+  (4) 서포트 벡터 머신(SVM, Support Vector Machine)<br>
+  (5) 결정트리(Decision Tree)<br>
+  (6) 랜덤 포레스트(Random Forest)<br>
+  (7) 군집(Clustering)<br>
+  (8) k-means<br>
+  (9) 주성분 분석(PCA)<br>
+6) Deep Learning<br>
+  (1) 인공신경망 및 딥러닝, 영상 처리를 위한 CNN<br>
+  (2) 자연어 처리를 위한 RNN, LSTM, Transformers<br>
 
 
 
