@@ -46,33 +46,6 @@
 <b>Navis Automotive Systems MAPINT 사원 (Dec 2019 ~ Jan 2021)</b>
 
 
-  - Converting & 데이터 검수
-    - Raw Data를 가공하여 Complie을 위한 원도로 만들기 위한 Converting 진행(자체 개발 툴 활용)
-      - Raw Data 예시 : Link, POI, Tollfee, GuidePath, Mesh, DEM, Tunnel 등
-    - 원도 팀에서 제공하는 release note 기반으로 고객에게 전달될 업데이트 사양 정리
-    - BeyondCompare 툴을 활용하여 이전 버전과 비교해 업데이트 파일 확인
-    - 검수가 필요한 지역에 대한 좌표 정보를 활용하여 Data 확인(자체 개발 툴 활용)
-  - 서버 관리 및 데이터 품질 관리
-    - SoftWare
-      - microsoft visual studio 설치(.NET 및 C++ 기반)
-      - sqlite 설치
-    - VHD 및 SSD 사용으로 툴 사용 최적화 방안 제시
-      - 서버 분할로 소요 시간 단축(서버를 나누어 각 서버에 맞게 converting 진행 후 데이터 취합)
-      - Hyper-V VHD Set 활용하여 VHD 고정 용량으로 인한 Tool error 방지
-      - SSD 탑재하여 Tool 소요 시간 단축 
-    - copy 툴 테스트
-      - 소요 시간, 생성 파일, 용량을 체크하여 성능이 좋은 copy 툴 선택(copy 툴 : window copy,  fast copy, robocopy)
-    - 백업 및 데이터 리스트 관리
-  - 기타
-    - SQL 이용한 데이터 추출 및 관련 부서 자료 회신
-    - JIRA, Confluence 등의 협업 툴 활용
-    - Converting 일정 및 Release 관련 schedule 관리
-
-
-
-
-
-
 <b>K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)</b>
   - RDBMS(Oracle / My SQL) : 빅데이터 저장 기술
   - 데이터 사이언스 개론 : 통계학 기반, 수학적 기반 분석
