@@ -19,13 +19,13 @@
 ![power bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ## PROJECT
-<b>1. 부산 관광객 유치를 위한 방안</b><br/>
+<b>1. 부산 관광객 유치를 위한 방안</b> [repository](https://github.com/sujinbang/01_MINIPROJECT)<br>
   1) 기간 : 2022.06.21 ~ 2022.06.30<br/>
   2) 사용 기술 : pandas, folium, matplotlib, seaborn
 
 <br/>
 
-<b>2. 이륜차 사고 정보 제공</b><br/>
+<b>2. 이륜차 사고 정보 제공</b> [repository](https://github.com/sujinbang/02_MINIPROJECT)<br>
   1) 기간 : 2022.07.20 ~ 2022.08.02<br/>
   2) 사용 기술 : pandas, folium, matplotlib, seaborn, django, Scikit-learn
   3) power BI : [BI_이륜차사고분석.pbix](https://github.com/sujinbang/02_MINIPROJECT/blob/main/BI/BI_%EC%9D%B4%EB%A5%9C%EC%B0%A8%EC%82%AC%EA%B3%A0%EB%B6%84%EC%84%9D.pbix)<br>
