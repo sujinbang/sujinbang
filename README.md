@@ -3,6 +3,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=SJBANG%20Repository&fontSize=50"/>
   </a>
 </p>
+<!-- 
+## PROFILE
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujinbang&theme=synthwave&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujinbang&theme=synthwave&layout=compact"/> -->
 
 
 ## INFO
