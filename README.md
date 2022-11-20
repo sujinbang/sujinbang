@@ -28,7 +28,7 @@
 ## PROJECT
 <b>1. 부산 관광객 유치를 위한 방안</b> [repository](https://github.com/sujinbang/01_MINIPROJECT)<br>
   1) 기간 : 2022.06.21 ~ 2022.06.30<br/>
-  2) 사용 기술 : pandas, folium, matplotlib, seabor
+  2) 사용 기술 : pandas, folium, matplotlib, seaborn
 
 <br/>
 
