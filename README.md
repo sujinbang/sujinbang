@@ -12,7 +12,7 @@
 
 ## INFO
 - Name : Bang sujin
-- Email : sjbang8098@gmail.com
+- Email : sjbang8098@gmail.co
 - PukyongNationalUniv. Spatial Information Engineering(2016.03 ~ 2020.02)
 - ADsP(Advanced Data Analytics Semi-Professional)
 - 측량및지형공간정보기사
