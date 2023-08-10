@@ -26,9 +26,11 @@ Here are some ideas to get you started: -->
 - Name : Bang sujin
 - Email : sjbang8098@gmail.com
 - PukyongNationalUniv. Spatial Information Engineering(2016.03 ~ 2020.02)
-- ADsP(Advanced Data Analytics Semi-Professional) 
+- ADsP(Advanced Data Analytics Semi-Professional)
+- 측량및지형공간정보기사
+- 지적기사
 
-<
+
 ## SKILLS
 ![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
