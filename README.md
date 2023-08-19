@@ -20,6 +20,7 @@ Here are some ideas to get you started: -->
 #### 안녕하세요 방수진입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
  - 🌱 I’m currently learning Back-end and DevOps 
 - My email is here! 👉 sjbang8098@gmail.com
+- 📰 Portfolio : **[PDF📘](https://www.notion.so/SJBANG-28b885ae0c544cdb96d9decf491a9540)**
 
 
  ## INFO
