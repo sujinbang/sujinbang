@@ -21,6 +21,7 @@ Here are some ideas to get you started: -->
  - 🌱 I’m currently learning Back-end and DevOps 
 - My email is here! 👉 sjbang8098@gmail.com
 - 📰 Portfolio : **[PDF📘](https://www.notion.so/SJBANG-28b885ae0c544cdb96d9decf491a9540)**
+- Blog : https://bbangya22.tistory.com/
 
 
  ## INFO
