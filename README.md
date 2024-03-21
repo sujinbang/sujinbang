@@ -1,8 +1,10 @@
+<!--
 <p align='center'>
   <a href="https://github.com/sujinbang">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=SJBANG%20Repository&fontSize=50"/>
   </a>
 </p>
+-->
 
 <!--
 ## PROFILE
@@ -16,14 +18,16 @@
 
 Here are some ideas to get you started: -->
 
+<!--
 ## READ ME
 #### 안녕하세요 방수진입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
  - 🌱 I’m currently learning Back-end and DevOps 
 - My email is here! 👉 sjbang8098@gmail.com
 - 📰 Portfolio : **[PDF📘](https://www.notion.so/SJBANG-28b885ae0c544cdb96d9decf491a9540)**
 - Blog : https://bbangya22.tistory.com/
+-->
 
-
+<!--
  ## INFO
 - Name : Bang sujin
 - Email : sjbang8098@gmail.com
@@ -69,7 +73,7 @@ Here are some ideas to get you started: -->
 
 <b>2. K-DIGITAL 빅데이터 분석가 양성 교육 수료 (Apr 2022 ~ Oct 2022)</b><br>
 
-
+-->
 
 
 
