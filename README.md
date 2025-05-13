@@ -18,7 +18,9 @@
 
 Here are some ideas to get you started: -->
 
+<!--
 ## READ ME
+-->
 #### 안녕하세요 방수진입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
  - 🌱 I’m currently learning Back-end and Data analystic
 - My email is here! 👉 sjbang8098@gmail.com
@@ -26,16 +28,18 @@ Here are some ideas to get you started: -->
 - Blog : https://bbangya22.tistory.com/
 
 
-<!--
- ## INFO
+<hr>
+
+ #### INFO
 - Name : Bang sujin
 - Email : sjbang8098@gmail.com
 - PukyongNationalUniv. Spatial Information Engineering(2016.03 ~ 2020.02)
 - ADsP(Advanced Data Analytics Semi-Professional)
 - 측량및지형공간정보기사
 - 지적기사
+- HDAT-DA 2급
 
-
+<!--
 ## SKILLS
 ![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
