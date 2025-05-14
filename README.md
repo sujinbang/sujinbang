@@ -19,7 +19,7 @@
 - 📧 Email: sjbang8098@gmail.com  
 - 📍 Location: Seoul, South Korea  
 - 🎓 Major: 공간정보시스템공학과, 부경대학교
-- 📰 Portfolio : **[NOTION📘](https://www.notion.so/SJBANG-28b885ae0c544cdb96d9decf491a9540)**
+- 📰 Portfolio : https://portfolio-tojf.onrender.com/
 - ✍ Blog : https://bbangya22.tistory.com/
 
 ---
