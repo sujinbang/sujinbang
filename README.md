@@ -39,7 +39,7 @@
 `Oracle` `MySQL` `Tibero` `SQLite` `ChromaDB(VectorDB)`
 
 ### 🤖 ML / DL & LLM
-`scikit-learn` `PyTorch` `TensorFlow` `Transformer` `Hugging Face Qwen2.5(LLM)` `bge-m3(Embedding)` `LLM Fine-tuning` `RAG Architecture`
+`scikit-learn` `PyTorch` `TensorFlow` `Transformer` `Hugging Face(Transformers, Tokenizers)` `LLM Fine-tuning` `RAG Architecture`
 
 ### 🧬 NLP
 `KoBERT` `KoNLPy` `NLTK` `Gensim`
