@@ -26,29 +26,32 @@
 
 ## ✨ Skills
 
-### 🧠 Languages  
-`Python` `JavaScript`
+### 🧠 Languages
+`Python` `JavaScript` `PowerShell`
 
-### 🌐 Web Frameworks  
+### 🌐 Web Frameworks
 `Django` `Flask`
 
-### 📊 Data App Tools  
+### 📊 Data App Tools
 `Streamlit`
 
-### 🗄️ Databases  
-`Oracle` `MySQL` `Tibero` `SQLite`
+### 🗄️ Databases
+`Oracle` `MySQL` `Tibero` `SQLite` `ChromaDB(VectorDB)`
 
-### ⚙️ DevOps  
-`Docker` `Jenkins`
+### 🤖 ML / DL & LLM
+`scikit-learn` `PyTorch` `TensorFlow` `Transformer` `Hugging Face Qwen2.5(LLM)` `bge-m3(Embedding)` `LLM Fine-tuning` `RAG Architecture`
 
-### 🤖 ML / DL  
-`scikit-learn` `PyTorch` `TensorFlow`
+### 🧬 NLP
+`KoBERT` `KoNLPy` `NLTK` `Gensim`
 
-### 🧬 NLP  
-`KoBERT` `KoNLPy`
+### 🗺️ GIS & Spatial Data QC
+`QGIS` `ArcGIS` `Rapid`
 
-### 🔐 Security Tools  
-`drozer` `frida` `MobSF` `ADB` `Ghidra` `BurpSuite`
+### ⚡ Automation & RPA
+`pywinauto` `Batch` `Scripting` `PowerShell` `Scripting`
+
+### 🔐 Security Tools
+`drozer` `frida` `MobSF` `ADB` `Ghidra` `BurpSuite` `Wireshark`
 
 
 <!--
